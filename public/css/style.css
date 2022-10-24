@@ -1,0 +1,253 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+    font-size: 16px;
+}
+
+.nav-item {
+    margin-left: 50px;
+}
+
+.navbar-collapse {
+    margin-left: 10rem;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.marginContent {
+    margin-top: 150px;
+}
+
+.row1 {
+    justify-content: center;
+    padding: 5px;
+}
+
+.card-image {
+    margin: 5px;
+    margin-right: 5px;
+}
+
+.hrstyle {
+    width: 80%;
+    margin: auto;
+}
+
+.hrstyle2 {
+    width: 100%;
+}
+
+span {
+    margin-right: 10px;
+}
+
+span a:hover {
+    font-weight: 600;
+}
+
+ul li .list-porto:hover {
+    font-weight: 600;
+}
+
+.mx-footer {
+    margin-left: 84px;
+}
+
+.p-color {
+    color: rgb(167, 167, 167);
+    font-size: 11px;
+    font-weight: 400;
+}
+
+.text-deco li a{
+    text-decoration: none;
+    list-style: none;
+    color: rgb(167, 167, 167);
+    font-size: 14px;
+}
+
+.text-deco1 {
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.text-deco {
+    list-style: none;
+}
+
+.ms-4 {
+    font-size: 14px;
+}
+
+.text-deco,
+.p-size {
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.btn-cari {
+    width: 300px;
+    margin-left: 800px;
+}
+
+.margin-ul ul{
+    margin-left: 107px;
+}
+
+.margin-ul ul > * {
+    margin-top: 10px;
+}
+
+.btn-light {
+    width: 55px;
+    position: absolute;
+    margin-top: -30px;
+    margin-left: 95px;
+}
+
+.add-cart {
+    position: relative;
+    margin-left: -25px;
+}
+
+.wrapper:hover img{
+    transition: .5 ease;
+    opacity: .5;
+}
+
+.card {
+    overflow: hidden;
+}
+
+.card:hover {
+    border-color: black;
+}
+
+.card:hover img {
+    transform: scale(1.1);
+    transition: all .5s ease-in;
+}
+
+.imgPorto:hover {
+    transform: scale(1.1);
+    transition: all .5s ease-in;
+}
+
+.desc-price {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.font-style {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.m-cart {
+    margin-left: 230px;
+} 
+.m-cart2 {
+    margin-left: 135px;
+} 
+
+.m-price {
+    margin-left: 197px;
+}
+
+.m-content {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 50px;
+}
+
+/* LANDING PAGE */
+.margintopLandingPage {
+margin-top: 145px;
+}
+
+.marginTelusuri {
+    margin-top: 100px;
+}
+
+.marginTelusuri h3 {
+    font-weight: 600;
+}
+
+.marginTelusuri p {
+    font-weight: 300;
+}
+
+.cardInfo {
+    width: 300px;
+    height: 400px;
+}
+
+.marginImage {
+    margin-left: 40px;
+    width: 130%;
+}
+
+.martopTitle{
+    margin-top: 150px;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.martopRow {
+    margin-top: 80px;
+}
+
+.martopRow li h3 {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.martopRow li p {
+    font-size: 14px;
+}
+
+.titleBold{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.titlePrice {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.priceTotal {
+    margin-left: 1000px;
+    margin-top: 45px;
+}
+
+.titlePriceTotal {
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 45px;
+}
+
+.cardMargin {
+    margin-left: 90px;
+}
+
+.btnClose {
+    margin-left: 150px;
+}
+
+.pagerMarginShop {
+    margin-left: 523px;
+}
+
+.marginshop {
+    margin-left: 150px;
+}
+
+.place_order {
+    margin-left: 790px;
+}

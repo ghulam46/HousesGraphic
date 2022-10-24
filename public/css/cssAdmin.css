@@ -1,0 +1,11 @@
+.coverAdmin {
+    width: 100px;
+}
+
+.table > tbody > tr > * {
+    vertical-align: middle;
+}
+
+.tombol {
+    margin-left: -100px;
+}
